@@ -15,9 +15,6 @@ My name is Jacob and this is section about me!<br>👨‍💻💪🏼I'm good in
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rolaski&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Rolaski2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
