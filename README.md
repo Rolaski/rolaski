@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Jacob and this is section about me!<br>👨‍💻💪🏼I'm good in:<br>🔸HTML<br>🔸CSS<br>🔸JavaScript<br>🔸PHP<br>🔸C<br>🔸Windows Server<br>🔸Linux<br>🔸Databases<br><br>🔭 I’m currently working on Java <br>🌱 I’m currently learning Java<br>⚡ My favorite language is JavaScript<br>📧 Text me: jakubowskijjal1@gmail.com
+My name is Jacob and this is section about me!<br>👨‍💻💪🏼I'm good in:<br>🔸HTML<br>🔸CSS<br>🔸JavaScript<br>🔸PHP<br>🔸C<br>🔸Windows Server<br>🔸Linux<br>🔸Databases<br><br>🔭 I’m currently working on Java <br>🌱 I’m currently learning Java<br>⚡ My favorite language is Java<br>📧 Text me: jakubowskijjal1@gmail.com
 
 
 ## 🌐 Socials:
