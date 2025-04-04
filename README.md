@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Jakubowski</h1>
 <h3 align="center">Future AI Developer</h3>
 
-- 🔭 I’m currently working on [YouTube Success Analyzer](https://github.com/Rolaski/Youtube-analysis)
+- 🔭 I’m currently working on [Wine Analysis](https://github.com/Rolaski/Wine-analysis)
 
 - 🌱 I’m currently learning **Tensorflow**
 
