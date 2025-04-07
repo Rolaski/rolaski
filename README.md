@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Wine Analysis](https://github.com/Rolaski/Wine-analysis)
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **AI Programming for Python Developers**
 
